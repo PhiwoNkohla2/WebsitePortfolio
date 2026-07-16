@@ -42,7 +42,7 @@ The purpose of this portfolio is to:
 
 ## 📸 Screenshots
 
-
+(Add screenshots of your website here)
 
 ## 🌍 Live Demo
 
